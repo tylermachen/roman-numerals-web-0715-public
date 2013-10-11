@@ -45,7 +45,7 @@ end
 describe Integer, '#to_roman' do
 
   it 'converts 1' do
-    1.to_roman.should eq 'I', 
+    1.to_roman.should eq 'I'
   end
 
   it 'converts 2' do
