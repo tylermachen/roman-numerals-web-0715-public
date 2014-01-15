@@ -30,13 +30,13 @@ To see this in practice, consider the example of 1990.
 
 In Roman numerals 1990 is MCMXC:
 
-1000=M
-900=CM
-90=XC
+* 1000 = M
+* 900 = CM
+* 90 = XC
 
 2008 is written as MMVIII:
 
-2000=MM
-8=VIII
+* 2000 = MM
+* 8 = VIII
 
 See also: [Nova Roma](http://www.novaroma.org/via_romana/numbers.html)
