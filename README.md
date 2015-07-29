@@ -1,7 +1,4 @@
----
-  tags: integers, object orientation, class modification, bonus
-  languages: ruby
----
+
 # Roman Numerals
 
 ### Skills: Modifying a Ruby class, Integers
